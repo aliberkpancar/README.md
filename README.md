@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Aliberk Pancar
 
-<img  src="https://github.com/aliberkpancar/README.md/assets/136332014/5d39e1b6-e7c9-4a1d-9639-0c561eaaf179" height="400">
+<img  src="https://github.com/aliberkpancar/README.md/assets/136332014/5d39e1b6-e7c9-4a1d-9639-0c561eaaf179" height="200">
 
 I'm a student at 42, passionate about software development and learning new technologies. Here's a bit about me:
 
